@@ -10,7 +10,7 @@ Processes real-world inspired data Classifies safety levels (Safe / Unsafe) Demo
 
 🚀 How to Run Open the notebook in Google Colab Run all cells in sequence Modify input values to test different safety predictions
 
-💻 Run Locally (VS Code) git clone https://github.com/Rani Ghosh-2029/Suraksha-AI_Women-Safety.git cd Suraksha-AI_Women-Safety
+💻 Run Locally (VS Code) git clone https://github.com/Rani-Ghosh-2029/Suraksha-AI_Women-Safety.git cd Suraksha-AI_Women-Safety
 
 create virtual environment
 python -m venv venv
